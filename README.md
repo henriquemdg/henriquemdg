@@ -14,7 +14,7 @@
 
 Profissional com atuação em ambientes corporativos complexos, especializado em implantação, sustentação e evolução do ERP TOTVS RM, com experiência nos segmentos educacional, backoffice e saúde.
 
-Atua na interseção entre tecnologia e negócio, conduzindo levantamento de requisitos, mapeamento de processos e desenvolvimento de soluções baseadas em dados, com foco em confiabilidade das informações e ganho operacional.
+Atuo na interseção entre tecnologia e negócio, conduzindo levantamento de requisitos, mapeamento de processos e desenvolvimento de soluções baseadas em dados, com foco em confiabilidade das informações e ganho operacional.
 <br><br>
 
 ---
