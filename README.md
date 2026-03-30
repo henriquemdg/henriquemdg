@@ -45,4 +45,3 @@ Atua na interseção entre tecnologia e negócio, conduzindo levantamento de req
 </div>
 <br><br>
 
-<di
